@@ -1,0 +1,13 @@
+body {
+	font-family: Monaco, cursive;
+	background-color: #BC0202;
+	color: white;
+}
+
+.row {
+	margin-top:50px;
+}
+
+#profile_pic {
+	border: 6px double white;
+}
